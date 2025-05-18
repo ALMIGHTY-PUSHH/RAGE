@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "whitelisted": ["1352325889689649245"],
+  "threshold": 5,
+  "interval": 10,
+  "action": "kick"
+}
